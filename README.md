@@ -15,5 +15,7 @@ The app is built using node express for server side development, and the Twit re
 
 Things to add 
 In the near future, I would like to add more affordances to the page. This includes adding the option of also including a visual representation of the characters in the tweets that match the audio representations. In addition to that, it would also be cool to give the user the option of selecting the kind of instrument that they would like to map the tweets to. Further, I look to utilize more of the parameters that the API provides, such as how popular the user that tweeted the tweet with the hashtag is, their geographical location, how many times the tweet was retweeted and so on. This will aim in adding more levels of sonification to the algorithm, and complexity to the user experience. I would also like to add more affordances to the displayed tweet on the page. This could be done by highlighting the specific characters that are being sonified at the moment, and thus adding a connection to the text aspect and sonification aspect of the project.
+
+LINKS TO THE DEPLOYED PROJECT:
 https://finalmashups.herokuapp.com
 https://finalmashups.herokuapp.com/about
